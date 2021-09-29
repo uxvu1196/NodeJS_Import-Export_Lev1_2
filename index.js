@@ -1,0 +1,1 @@
+let imprtedArr = require("./function.js")
